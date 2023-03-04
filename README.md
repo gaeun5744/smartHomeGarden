@@ -1,5 +1,5 @@
 ## Award
-[2022 프로보노 ICT 수상작](https://user-images.githubusercontent.com/92314556/218733202-28f0859f-0d18-4fe8-a5b0-18d64a449a60.png)
+[2022 프로보노 ICT 수상작](https://user-images.githubusercontent.com/92314556/222881039-d701d9bf-7759-46c4-b56c-b38eebb7f466.png)
 
 ## Team Member
 - [이가은](https://github.com/gaeun5744/smartHomeGarden): 개발 및 기획
